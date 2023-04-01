@@ -1,0 +1,25 @@
+				@font-face {
+					font-family: 'open-sans-reg';
+					src: url('/wp-content/uploads/useanyfont/8465Open-Sans-Reg.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/8465Open-Sans-Reg.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.open-sans-reg{font-family: 'open-sans-reg' !important;}
+
+						@font-face {
+					font-family: 'source-sans-pro-bld';
+					src: url('/wp-content/uploads/useanyfont/1073Source-Sans-Pro-Bld.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/1073Source-Sans-Pro-Bld.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.source-sans-pro-bld{font-family: 'source-sans-pro-bld' !important;}
+
+						h1, h2, h3, h4, h5, h6, .entry-title{
+					font-family: 'source-sans-pro-bld' !important;
+				}
+						body, p, blockquote, li, a, strong, b, em{
+					font-family: 'open-sans-reg' !important;
+				}
+		
